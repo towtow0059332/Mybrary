@@ -25,8 +25,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20fa74ef-5b85-4eda-ae87-7e2797b4a4dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/models/book.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/books/_form_fields.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/books/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/books/new.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/authors.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/authors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/header.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,14 +63,21 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/books" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\projects\book\views\books" />
       <recent name="F:\projects\book\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\book\views\books" />
+      <recent name="F:\projects\book\models" />
+      <recent name="F:\projects\book\routes" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,7 +93,12 @@
       <workItem from="1597733970575" duration="10216000" />
       <workItem from="1597806827035" duration="1788000" />
       <workItem from="1597822124068" duration="599000" />
-      <workItem from="1597839926755" duration="12244000" />
+      <workItem from="1597839926755" duration="12586000" />
+      <workItem from="1597959406364" duration="1796000" />
+      <workItem from="1598066415504" duration="14342000" />
+      <workItem from="1598107320586" duration="15976000" />
+      <workItem from="1598231242981" duration="12375000" />
+      <workItem from="1598285887538" duration="8489000" />
     </task>
     <servers />
   </component>
@@ -102,5 +125,9 @@
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="892" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1536.824@0.40.1536.824" timestamp="1597635104941" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1598240605854">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.40.1536.824@0.40.1536.824" timestamp="1598240605854" />
   </component>
 </project>
