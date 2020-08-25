@@ -25,19 +25,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20fa74ef-5b85-4eda-ae87-7e2797b4a4dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/models/book.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/books.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/books/_form_fields.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/books/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/books/new.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/book.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/book.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/authors.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/authors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/partials/header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/header.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/books.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/books.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/books/_form_fields.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/books/_form_fields.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/books/new.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/books/new.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/layout.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/layout.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +93,8 @@
       <workItem from="1598066415504" duration="14342000" />
       <workItem from="1598107320586" duration="15976000" />
       <workItem from="1598231242981" duration="12375000" />
-      <workItem from="1598285887538" duration="8489000" />
+      <workItem from="1598285887538" duration="9810000" />
+      <workItem from="1598334452505" duration="10488000" />
     </task>
     <servers />
   </component>
