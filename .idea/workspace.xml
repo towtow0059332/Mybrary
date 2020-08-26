@@ -25,17 +25,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20fa74ef-5b85-4eda-ae87-7e2797b4a4dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/views/authors/edit.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/authors/show.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partials/deleteForm.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/books/edit.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/books/show.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/author.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/author.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/authors.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/authors.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/books.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/books.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/authors/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/authors/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/authors/show.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/authors/show.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/books/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/books/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,20 +62,20 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/authors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/books" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\projects\book\views\authors" />
-      <recent name="F:\projects\book\views\books" />
-      <recent name="F:\projects\book\models" />
-      <recent name="F:\projects\book\routes" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\projects\book\views\books" />
       <recent name="F:\projects\book\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\book\views\books" />
+      <recent name="F:\projects\book\views\authors" />
+      <recent name="F:\projects\book\models" />
+      <recent name="F:\projects\book\routes" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -102,7 +99,7 @@
       <workItem from="1598285887538" duration="9810000" />
       <workItem from="1598334452505" duration="15481000" />
       <workItem from="1598396496581" duration="9438000" />
-      <workItem from="1598430392627" duration="6192000" />
+      <workItem from="1598430392627" duration="12067000" />
     </task>
     <servers />
   </component>

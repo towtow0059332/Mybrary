@@ -106,8 +106,7 @@ router.put('/:id', async (req, res) => {
         // console.log(author);
         // console.log(req.body.authorName);
         author.name = req.body.authorName;
-        console.log(author);
-
+        // console.log(author);
         await author.save();
         res.redirect(`${author.id}`);
     } catch (err) {
