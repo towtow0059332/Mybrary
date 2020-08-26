@@ -64,7 +64,7 @@ router.post('/', async (req, res) => {
         // coverImageName: fileName,
         description: req.body.description
     });
-
+    // console.log(book);
     saveCover(book, req.body.coverImage);
 
     try {
