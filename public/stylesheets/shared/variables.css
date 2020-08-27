@@ -21,8 +21,14 @@
     --color-btn-danger-background-dark: hsl(var(--color-danger-hue), 100%, 73%);
     --color-btn-primary-text-dark: hsl(var(--color-base-hue), 100%, 10%);
 
+    /*form*/
     --form-label-font-size: 1.2rem;
     --form-input-background-color: hsl(var(--color-base-hue), 100%, 31%);
     --form-input-border-color: hsl(var(--color-base-hue), 100%, 50%);
     --form-input-border-color-light: hsl(var(--color-base-hue), 100%, 80%);
+
+    /*book*/
+    --book-cover-width: 200px;
+    --book-cover-width-large: 325px;
+    --book-cover-aspect-ratio: 0.75;
 }
