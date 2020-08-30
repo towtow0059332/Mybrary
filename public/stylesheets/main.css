@@ -29,6 +29,9 @@ body {
 
 .inner-container {
     margin: 0 2rem;
+    border: 1px solid white;
+    border-radius: .5rem;
+    padding: .25rem;
 }
 
 .page-header {
